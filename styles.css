@@ -164,3 +164,7 @@ nav ul li a{
           font-weight: bold;
           color: black;
         }
+.social-icons img {
+  width: 24px;
+  margin: 0 0.5em;
+}
